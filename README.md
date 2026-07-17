@@ -122,3 +122,6 @@ correctamente por el modelo.
 ## F1-score
 
 Combina precision y recall mediante una media armónica.
+
+
+Luis Fabian Duran
